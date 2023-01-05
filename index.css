@@ -1,21 +1,20 @@
 
+/*------------------------------index.html------------------------------*/
+
 body {
   background-image: url("img/space.jpg");
 }
-
 
 .h1 {
   text-align: center;
   color: white;
   font-family: kunstler script;
 }
+
 .p1 {
   color: white;
   text-align: center;
-  
 }    
-
-
 
 .yavuz {
   position:absolute;
@@ -70,7 +69,8 @@ body {
 }
 
 
-/*------------------------My Skills-----------------*/
+/*-----------------------------My Skills--------------------------------------*/
+
 .c {
   position: absolute;
   margin-left: 660px;
@@ -143,7 +143,6 @@ body {
   animation-delay: 10s;
 }
 
-
 @keyframes python {
   from {  transform: rotate(0deg) translate(300px) rotate(0deg) translate(-0.5em,-17.5em);}
   to   {  transform: rotate(360deg) translate(300px) rotate(-360deg) translate(-0.5em,-17.5em);}
@@ -185,7 +184,7 @@ body {
 } 
 
 
-/*--------------Contact Me----------------*/
+/*---------------------------Contact Me----------------------------------*/
 
 .twitter {
 	position: absolute;
@@ -246,7 +245,7 @@ body {
 }
 
 
-/*--------------About Me----------------*/
+/*------------------------------About Me-----------------------------------*/
 
 .tub {
   position: absolute;
@@ -280,7 +279,6 @@ body {
   animation: move 8s ease-in-out;
 }
 
-
 @keyframes move {
   0%{width: 0px; height: 0px;}
   10%{width: 35px; height: 25px;}
@@ -298,7 +296,7 @@ body {
 }
 
 
-/*--------------My Hobbies----------------*/
+/*------------------------------My Hobbies----------------------------*/
 
 
 .yavuz4 {
@@ -408,7 +406,7 @@ body {
   100%{left: 2000px;top:570;}
 }
 
-/* ------------------------------------------*/
+/* ------------------------------My Projects--------------------------------*/
 
 .earth00 {
   position: absolute;
@@ -505,7 +503,6 @@ body {
 	margin-left: 390px;
 	margin-top: 330px;
 }
-
 
 .world {
   position: absolute;
